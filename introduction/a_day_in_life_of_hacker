@@ -1,0 +1,129 @@
+Why pentesting ?
+This is a Question you should ask yourself and the answer could be 
+different for everyone and it's okay to have an answer different from 
+other you should just have a will to learn and to implement what you 
+learn, in my 100 days of learning cybersecurity i will mostly focus on 
+learning most of the Practical Ethical Hacking part and make me as well as 
+you familiar with that, for me the reasons are as follows:
+1.I Love Cyber Security, i mean since i was a child i was always keen to 
+learn about new technologies that disrupted the market and when i used to 
+learn about these Tech i became aware of Breaking into these tech stacks.
+2.There are flexible Working time, atleast the place where i work , you 
+can work from home and save a lot of travelling time
+3.The salaries are really high, due to the high demand in the market and 
+sortage of people The payscale is really high.
+4.This type of jobs has a good work life balance, or atlest you can manage 
+the time here more than other places.
+5.If you love learning and willing to learning everyday this is going to 
+feel mentally soothing after being in this feild because there is 
+literally a lot to learn and believe me you're gonna love it.
+
+
+A Day In Life
+
+
+Roll out of bed
+
+You will just get out of bed and get yourself ready for work as you like 
+you can be completely naked doing work or well dressed doing work , 
+dose'nt really matter as you will mostly be working from home , you will 
+mostly do something to keep yourself fit and give some family time.
+
+
+External/Internal Network
+
+External
+
+By external assessment what i mean is that you will be Somewhere around 
+the world and doing a network assessment and looking the network from 
+outside and will try to get inside the network
+
+Internal
+
+After you have breached the network got an RCE(Remote Code 
+Execution) 
+There comes the Part where you find what can you do when you're inside the 
+network , This is mostly cover the Active Directory Pentest and Dropbox 
+and Vpn key
+These 100 days will mostly based upon these internal and external network assessment , you
+
+
+Web Application
+
+This includes Assessing a website and you need to find out weater you can 
+break that website find admin credentials or get somewhere you 
+Should'nt get to, This also includes OWASP Top 10(This include a lot of 
+Bug Bounty Stuff)
+
+
+Wireless
+
+This is just the evaluation of wireless network and see weather you can 
+breach that network and and see that weather a guest is able to sign in to 
+the company's wifi network, and that should not happen but it happens in 
+most of the cases
+
+
+Physical/Social/Phishing/Vishing
+This includes breaking into a building or going to a place where they 
+do'nt want you to go, using some social skills to bypass some people 
+copying some scan ids cloning badges to access network area and doing 
+Phishing for some Credentials 
+
+
+SOC("Purple Teaming")
+
+A penetration Tester or an Ethical Hacker is often known as red and a 
+defender is often known as blue so when you mix red and blue it becomes 
+purple so purple teaming is like a cat and mouse game where both blue team 
+and red team sits together and go on a war , i mean literally red team 
+attacks the network and blue team protects it and they find the way to 
+breakin and protect the network, having a motive of finally protecting and 
+fixing the vulneriblities in the system
+
+
+Report Writing
+
+So After you're done with all of the above things you come to the report 
+writting and believe me this is an important part of your job and most of 
+you would find this boring to do but it is important to express and show 
+the severiety of issue you have solved in order to get Paid more and fix 
+the vulenariblity
+
+
+Debrief
+
+So this is where you take your report and show that to a client and walk 
+him thorough what did you do and what kind of vulneriblities did you find 
+and you should be ready to answer the Three questions that are:
+What is Wrong?
+Why it's Wrong?
+How Can we fix that?
+
+
+Soft Skills required
+
+Strong Desire to learn.
+Non-complacency
+Socail Skills
+Perseverance
+Blog/Twitter etc.
+
+
+Skills Required to be Successfull in this
+
+Don't Worry if you don't know any of the below as we're gonna learn them, 
+so yeah stay cool.
+Base
+
+Linux(Preferrably Kali/Parrot etc)
+Networking(OSI Model, Protocols etc)
+Scripting Skills(Python, Bash etc)
+Solid Hacking Methodology
+Tool Famaliarity(Metasploit, Burp Suite, Nessus, etc)
+
+Prefferred
+Active Directory
+Wireless Attacks
+OWSAP Top 10
+Coding Skills (Python,Bash etc)
