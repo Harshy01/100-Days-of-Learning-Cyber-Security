@@ -1,0 +1,37 @@
+So there are these .srt files in every section of the course, i just got 
+curious to find out what these files are and then i opened one of them and 
+found out that these are Subtitle files with the format as:
+
+<<Subtitle Number>>
+<<Starting Time Hours:Minutes:Seconds>>,<<Some 3 digit numbers i.e mili seconds>> --> <<End Time Hours:Minutes:Seconds>>,<<Some 3 digit Numbers i.e mili Seconds>>
+<<Content(Actual Subtitle)>>
+<<one line gap>>
+
+[
+
+Source: https://blog.hubspot.com/marketing/srt-file --> An SRT file 
+(otherwise known as SubRip(SubRip is a 
+software used to extract files subtitles from video with timestamps and 
+create .srt file) Subtitle file) is a plain text file that holds critical 
+information about the subtitles of a video including start and end time of 
+your text to ensure that subtitle match your audio and the sequential 
+number of your subtitle
+It is good to note that the .srt files are just plain text files and does 
+not contain any video or audio data
+How to create a *.srt File:
+	You can create a .srt file using any text editor including nano, vim, notepad++, TextEdit.
+	Open your text editor and order each line of your Subtitle starting with 1
+	From the next line put the time the subtitle begins and then "-->" and then add the time when it ends in the format "hours:minutes:seconds,miliseconds"
+	Below your start and end timestamp add the text you want to show in the video
+	save the file as <<filename>>.srt, then You're ready to go.
+
+Thinking about the .srt files it just came to my mind that we can exploit 
+or maybe find a vulnerability in the way how the video player reads the 
+.srt files , for that we should know how that actually works, i researched 
+about that but did not found a thing on how does the .srt file get 
+interpreted by the video player but i think we could find something there 
+
+ ]
+
+An Example of .srt File is given in this Directory as example.srt , don't 
+forget to check that out.
